@@ -1,4 +1,6 @@
 HELP.md
+.DS_Store
+gradle
 frontend/node_modules
 .gradle
 postgres-data
